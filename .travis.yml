@@ -4,6 +4,10 @@ addons:
   apt:
     sources:
     - ubuntu-toolchain-r-test
+  codacy:
+    repo_token: 2e5ab4e0e5e945958ef4e6c1ae8f3670
+  code_climate:
+    repo_token: 03f9695a4eaa00652f9622692c7de12fdc860e00cbae53979a8fdddf44505219
 node_js:
   - "6"
   - "7"
