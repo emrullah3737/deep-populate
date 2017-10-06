@@ -4,6 +4,29 @@
   <strong>Mongoose deep populate query string conventor</strong>
 </div>
 
+<div align="center">
+  <!-- NPM version -->
+  <a href="https://www.npmjs.com/package/deep-populate" target="_blank">
+    <img src="https://img.shields.io/npm/v/deep-populate.svg" alt="NPM version" />
+  </a>
+  <!-- licence -->
+  <a href="https://www.npmjs.com/package/deep-populate" target="_blank">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="NPM version" />
+  </a>
+  <!-- Github Stars -->
+  <a href="https://github.com/emrullah3737/deep-populate" target="_blank">
+    <img src="https://img.shields.io/github/stars/emrullah3737/deep-populate.svg" alt="Github Stars" />
+  </a> 
+  <!-- Downloads -->
+  <a href="https://www.npmjs.com/package/deep-populate" target="_blank">
+    <img src="https://img.shields.io/npm/dt/deep-populate.svg" alt="Downloads" />
+  </a>  
+  <!-- Downloads Month -->
+  <a href="https://www.npmjs.com/package/deep-populate" target="_blank">
+    <img src="https://img.shields.io/npm/dm/deep-populate.svg" alt="Downloads Month" />
+  </a>
+</div>
+
 <h1 align="center">Usage</h1>
 
 	$npm install deep-populate
