@@ -1,0 +1,9 @@
+language: node_js
+sudo: false
+addons:
+  apt:
+    sources:
+    - ubuntu-toolchain-r-test
+node_js:
+  - "6"
+  - "7"
