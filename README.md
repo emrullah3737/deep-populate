@@ -13,6 +13,18 @@
   <a href="https://www.npmjs.com/package/deep-populate" target="_blank">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="NPM version" />
   </a>
+  <!-- Travis CI -->
+  <a href="https://travis-ci.org/emrullah3737/deep-populate" target="_blank">
+    <img src="https://travis-ci.org/emrullah3737/deep-populate.svg?branch=master" alt="Build" />
+  </a>
+  <!-- Codeclimate -->
+  <a href="https://codeclimate.com/github/emrullah3737/deep-populate" target="_blank">
+    <img src="https://img.shields.io/codeclimate/github/emrullah3737/deep-populate.svg" alt="Codeclimate" />
+  </a>
+  <!-- Codeclimate Coverage -->
+  <a href="https://codeclimate.com/github/emrullah3737/deep-populate" target="_blank">
+    <img src="https://img.shields.io/codeclimate/coverage/emrullah3737/deep-populate.svg" alt="Codeclimate Coverage" />
+  </a>
   <!-- Github Stars -->
   <a href="https://github.com/emrullah3737/deep-populate" target="_blank">
     <img src="https://img.shields.io/github/stars/emrullah3737/deep-populate.svg" alt="Github Stars" />
